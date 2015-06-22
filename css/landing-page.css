@@ -40,6 +40,8 @@ h6 {
 }
 
 .intro-message {
+margin-top:-200px;
+
     position: relative;
     padding-top: 20%;
     padding-bottom: 20%;
