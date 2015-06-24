@@ -40,11 +40,14 @@ h6 {
 }
 
 .intro-message {
-margin-top:-200px;
-
     position: relative;
     padding-top: 20%;
     padding-bottom: 20%;
+}
+@media(min-width:1080px) {
+.intro-message {
+margin-top:-200px;
+}
 }
 
 .intro-message > h1 {
